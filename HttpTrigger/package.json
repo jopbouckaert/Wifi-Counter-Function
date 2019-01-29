@@ -1,0 +1,13 @@
+{
+  "name": "wifi-counter-azure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+    "canvas": "^2.1.0"
+  }
+}
